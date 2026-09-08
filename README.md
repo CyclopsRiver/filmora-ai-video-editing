@@ -2,6 +2,7 @@
 # Open Video Editing & Processing Suite
 
 This repository features a comprehensive, intuitive video editing engine designed for content creators, independent digital media developers, and editing enthusiasts. The application bridges the gap between high-end professional studio suites and basic mobile clipping tools. The core architecture is engineered to empower users to generate high-fidelity, visually compelling video assets without extensive training barriers.
+
 ---
 
 **ARCHIVE :** `LibreHub#!`
